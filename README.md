@@ -6,13 +6,13 @@
 - 🧩 Cybersec Volunteer Student at [EACH In the Shell](https://intheshell.page/sobre/membros/)
 - 🦉 Studying C and Java for POO
 
-### 📚 What I'm up to now 
+### 📚 What I'm up to now ?
 
 - 💻 Improving my development skills at [Ûdemy](https://udemy.com.br/)
 - 💙 Working as a Java systems engineering Intern at [Banco BV](https://www.bv.com.br/)
 - 🌱 Ruby, Phyton 3 and C# are some of the technologies on my radar
 
-### 💬 Talk to me!
+### 💬 Talk to me !
 - Find me on [LinkedIn](https://www.linkedin.com/in/ana-paula-b-/).
 - Or send me an email: [anapaulabernardo1703@gmail.com](mailto:anapaulabernardo1703@gmail.com).
 - Let's have a conversation on [Telegram](https://t.me/talktoanap)!
