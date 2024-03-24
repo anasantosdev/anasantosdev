@@ -16,6 +16,7 @@
 - Find me on [LinkedIn](https://www.linkedin.com/in/ana-paula-b-/).
 - Or send me an email: [anapaulabernardo1703@gmail.com](mailto:anapaulabernardo1703@gmail.com).
 - Let's have a conversation on [Telegram](https://t.me/talktoanap)!
+<br>
 
 <img alt="kawaii girl" src="ezgif.com-animated-gif-maker.gif" width="200" height="200" />
 
@@ -59,4 +60,9 @@
   <a href="https://www.linkedin.com/in/ana-paula-b-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anasantosdev/anasantosdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anasantosdev/anasantosdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anasantosdev/anasantosdev/output/github-contribution-grid-snake.svg">
+</picture>
 
