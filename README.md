@@ -17,7 +17,7 @@
 - Or send me an email: [anapaulabernardo1703@gmail.com](mailto:anapaulabernardo1703@gmail.com).
 - Let's have a conversation on [Telegram](https://t.me/talktoanap)!
 
-<img alt="kawaii girl" src="" width="200" height="200" />
+<img alt="kawaii girl" src="ezgif.com-animated-gif-maker.gif" width="200" height="200" />
 
 
 <div style="display: inline_block"><br>
