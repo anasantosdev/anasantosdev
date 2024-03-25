@@ -9,7 +9,7 @@
 ### 📚 What I'm up to now ?
 
 - 💻 Improving my development skills at [Ûdemy](https://udemy.com.br/)
-- 💙 Working as a Java systems engineering Intern at [Banco BV](https://www.bv.com.br/)
+- 💙 Working as a Java Systems Engineering Intern at [Banco BV](https://www.bv.com.br/)
 - 🌱 Ruby, Phyton 3 and C# are some of the technologies on my radar
 
 ### 💬 Talk to me !
