@@ -25,14 +25,19 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Ana-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Ana-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ana-Ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" />   
+<!--   <img align="center" alt="Ana-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  -->  
+<!--  <img align="center" alt="Ana-Ruby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" />  -->  
   <img align="center" alt="Ana-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Ana-IntelliJ" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img align="center" alt="Ana-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Ana-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />   
-  <img align="center" alt="Ana-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Ana-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Ana-Figma" height="50" width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+ <!--  <img align="center" alt="Ana-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />   -->
+  <!-- <img align="center" alt="Ana-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">-->
+  <img align="center" alt="Ana-MySQL" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Ana-Spring" height="80" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+           
+          
+   
+
   
 </div>
           
