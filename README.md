@@ -16,9 +16,6 @@
 - Find me on [LinkedIn](https://www.linkedin.com/in/ana-paula-b-/).
 - Or send me an email: [anapaulabernardo1703@gmail.com](mailto:anapaulabernardo1703@gmail.com).
 - Let's have a conversation on [Telegram](https://t.me/talktoanap)!
-<br>
-
-<img alt="kawaii girl" src="ezgif.com-animated-gif-maker.gif" width="200" height="200" />
 
 ## ⭐️ Languages and Tools:
 </p>
