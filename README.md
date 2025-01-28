@@ -4,7 +4,7 @@
   
 - 🎓 Currently pursuing a Bacharel of Information Systems at [USP](https://www5.usp.br/)
 - 🧩 Cybersec Volunteer Student at [EACH In the Shell](https://intheshell.page/sobre/membros/)
-- 🦉 Studying Angular and Python
+- 🦉 Studying Angular, Python (Django) and Microsservices
 
 ### 📚 What I'm up to now ?
 
